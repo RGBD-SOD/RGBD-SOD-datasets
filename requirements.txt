@@ -2,3 +2,4 @@
 datasets
 Pillow
 imantics
+scikit-image
